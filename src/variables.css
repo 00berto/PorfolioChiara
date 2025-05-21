@@ -1,0 +1,18 @@
+:root {
+    /* Colores */
+    --color-primario: #1E3A8A;
+    --color-secundario: #F4F0FF;
+    --color-azul: #1E3A8A;
+    --color-lilamoderno: #7F56D9;
+    --color-rosa: #FF4F8B;
+    /*rosa vibrante*/
+    --color-rosalight: #fa99b9;
+
+    --color-texto: #1D1D1F;
+    --color-claro: #ffffff;
+    --color-oscuro: #121212;
+
+    /* Tipografía */
+    --fuente-titulos: 'Poppins', sans-serif;
+    --fuente-texto: 'Open Sans', sans-serif;
+}

@@ -1,0 +1,19 @@
+/* Cards */
+.card-title {
+    color: var(--color-primario);
+}
+
+/* Footer */
+footer {
+    background-color: var(--color-secundario);
+    color: var(--color-texto);
+}
+
+.aberto a {
+    color: var(--color-texto);
+    text-decoration: none;
+}
+
+.aberto a:hover {
+    color: var(--color-primario)
+}

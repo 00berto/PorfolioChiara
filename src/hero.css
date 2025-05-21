@@ -1,0 +1,9 @@
+/* Imagen redonda para perfil */
+img.rounded-circle {
+    max-width: 300px;
+}
+
+
+.lead {
+    color: var(--color-claro)
+}

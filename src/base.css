@@ -1,0 +1,54 @@
+/* Reset */
+body {
+    font-family: var(--fuente-texto);
+    color: var(--color-texto);
+    background-color: var(--color-claro);
+    line-height: 1.6;
+}
+
+/* Títulos */
+h1,
+h2,
+h3,
+h4 {
+    font-family: var(--fuente-titulos);
+    color: var(--color-primario);
+    font-weight: 700;
+}
+
+h1,
+h2 {
+    text-shadow: 2px 2px 4px var(--color-claro);
+}
+
+/* Botones */
+.btn-primary {
+    background-color: var(--color-primario);
+    border-color: var(--color-primario);
+}
+
+.btn-outline-primary {
+    color: var(--color-primario);
+    border-color: var(--color-primario);
+}
+
+.btn-outline-primary:hover,
+.btn-primary:hover,
+.btn-outline-secondary:hover {
+    background-color: var(--color-lilamoderno);
+
+}
+
+/*Aspecto en comun*/
+.backg-comun {
+    background-color: var(--color-lilamoderno);
+}
+
+/* Enlaces */
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--color-azul);
+}
